@@ -1,0 +1,1 @@
+For: la funcion for crea un bucle o ciclo el cual contiene en su interior 3 distintas expresiones, que serian la (expresion-inicial, la condicion y la expresion-final), las cuales estan cada una encerradas entre parentesis y al final se coloca una sentencia 
